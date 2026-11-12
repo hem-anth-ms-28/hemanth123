@@ -18,4 +18,4 @@ struct student
   printf("\nname:%s",s.name);
   printf("\nmarks:%f",s.marks);
   return 0;
-}
+
